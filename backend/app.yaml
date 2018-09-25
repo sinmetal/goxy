@@ -1,5 +1,5 @@
-application: cp300demo1
-module: static
+application: goxy
+module: default
 runtime: go
 api_version: go1.9
 
